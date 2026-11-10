@@ -1,2 +1,2 @@
-# Proyecto_programaci-n-avanzada
-DEFORSTACIÓN DE  BOSQUES
+# Proyecto_análisis_de_datos_deforestación
+DEFORESTACIÓN DE BOSQUES 
